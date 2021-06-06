@@ -1,0 +1,44 @@
+* {
+    -webkit-user-select: text;
+    -moz-user-select: text;
+    -ms-user-select: text;
+    user-select: text;
+}
+
+ion-button {
+    text-transform:none;
+}
+
+.container {
+    text-align: center;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.splash {
+    text-align: center;
+    max-width: 20em;
+    margin: 0px auto;
+}
+
+.section {
+    padding: 0.5em;
+    margin: 0.5em;
+    text-align: center;
+}
+
+.camera-wait-container {
+    width: 400px;
+    height: 0px;
+    margin: 0px auto;
+}
+
+.camera-wait {
+    width: 400px;
+    height: 400px;
+    line-height: 400px;
+    text-align: center;
+}

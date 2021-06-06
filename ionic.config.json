@@ -1,0 +1,7 @@
+{
+  "name": "rentpluz",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
